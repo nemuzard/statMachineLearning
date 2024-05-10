@@ -1,4 +1,4 @@
-## Method
+## Method Part 1
 ### Task 1: In order to obtain normalized dataset X, we need to calculate the mean and the
 standard deviation of dataset X 
 Each unknown value can be obtained by using NumPy.
@@ -20,3 +20,9 @@ get distributions.
 The input of the classify function is a 2D vector after PCA and Gaussian distributions for digits 5
 and 6. The predicted/classification results will be stored in two arrays for the training set and
 testing set. Then we calculate the mean of accuracy of each dataset.
+
+## Part 2 
+### Part 1
+Implement a 3-layer MLP and then Test 
+### Part 2 
+Experiment on MNIST daataset 
